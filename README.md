@@ -1,1 +1,2 @@
 # javascriptproject13
+This is a minimal and creative web page project that displays a name (in this case, PRATIK PAWAR) with a glowing or illuminated visual effect. The structure is built using HTML, styled with an external CSS file, and enhanced with JavaScript for animation or interactivity. The illumination class applied is likely used to create a glow, light trail, or dynamic lighting effect around the text or page background. This project is great for personal branding, digital resumes, creative portfolios, or just as an artistic coding experiment.
